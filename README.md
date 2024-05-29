@@ -1,5 +1,5 @@
-# P6-Working-with-Data-in-Python
-Working with Data in Python
+# Working-with-Data-in-Python
+
 You work as an analyst for Zuber, a new ride-sharing company launched in Chicago.
 
 In addition to the data you obtained in the previous task, you have been given a second file. Now, you have two CSV files as follows: /datasets/project_sql_result_01.csv - containing the following data:
